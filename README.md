@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **ayoubmimoune9@gmail.com**
 
+- 📝 I am currently on a self-studying journey so constructive criticism is highly welcome!
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
