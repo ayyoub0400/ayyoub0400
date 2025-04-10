@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Kubernetes, Python & Bash**
 
-- 🤝 I’m currently studying for **AWS Certified Solutions Architect**
+- 🤝 I’m currently studying for the **AWS Certified Solutions Architect** exam
 
 - 👨‍💻 All of my projects are available at my LinkedIn! [https://www.linkedin.com/in/ayoub-m-34b8b710a/](https://www.linkedin.com/in/ayoub-m-34b8b710a/)
 
