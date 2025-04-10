@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🙋‍♂️, I'm Ayoub Mimoune</h1>
 <h3 align="center">Cloud/DevOps Engineer</h3>
 
-- 🔭 I’m currently working on [API based URL Shorterner!](https://github.com/ayyoub0400/WebURLShortener)
+- 🔭 I’m currently working on a [API based URL Shorterner!](https://github.com/ayyoub0400/WebURLShortener)
 
 - 🌱 I’m currently learning **Kubernetes, Python & Bash**
 
